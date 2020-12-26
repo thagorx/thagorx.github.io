@@ -55,6 +55,5 @@ collections:
     title: [Projects]
     output: true
     description: "My thoughts and Projects"
-    feature_text: |
-      My Projects
+    feature_text: My Projects
     feature_image: "https://picsum.photos/2560/600?image=866"
