@@ -20,12 +20,12 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://alxc.net'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Alex'
+description: 'My first try on a new website
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: ""
 
 # Pagination
 paginate: 5
@@ -37,8 +37,8 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Blog
-  url: /blog/
+- title: Projects
+  url: /Projects/
 
 # Footer nav
 navigation_footer:
@@ -50,7 +50,7 @@ collections:
   posts:
     title: Posts
     output: true
-    description: "My thoughts and ideas"
+    description: "My thoughts and Projects"
     feature_text: |
-      Welcome to my blog
+      Welcome to my site
     feature_image: "https://picsum.photos/2560/600?image=866"
