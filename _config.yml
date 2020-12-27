@@ -50,10 +50,10 @@ navigation_footer:
   url: "#top"
 
 # Collections
-collections:
-  posts:
+#collections:
+  #posts:
     #title: Alex
-    output: true
+    #output: true
     #description: [Projects]
     #feature_text: "##My Projects"
     #feature_image: "/img/projects.jpg"
