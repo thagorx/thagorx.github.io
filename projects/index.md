@@ -1,5 +1,5 @@
 ---
-title: Alex
+title: Projects
 layout: blog
 collectionpage: posts
 feature_image: "/img/projects.jpg"
