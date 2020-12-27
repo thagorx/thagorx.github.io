@@ -56,4 +56,4 @@ collections:
     output: true
     description: "My thoughts and Projects"
     feature_text: My Projects
-    feature_image: "/img/home.jpg"
+    feature_image: "/img/projects.jpg"
