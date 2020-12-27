@@ -1,6 +1,6 @@
 ---
 title: Projects
-layout: blog
+layout: page
 collectionpage: posts
 feature_image: "/img/projects.jpg"
 feature_text: |
