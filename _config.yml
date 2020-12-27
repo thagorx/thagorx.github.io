@@ -52,8 +52,8 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Alex
+    #title: Alex
     output: true
-    description: [Projects]
-    feature_text: "##My Projects"
-    feature_image: "/img/projects.jpg"
+    #description: [Projects]
+    #feature_text: "##My Projects"
+    #feature_image: "/img/projects.jpg"
