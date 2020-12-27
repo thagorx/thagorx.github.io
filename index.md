@@ -1,5 +1,5 @@
 ---
-title: Alex
+title: Welcome
 layout: page
 feature_image: "/img/home.jpg"
 feature_text: |
