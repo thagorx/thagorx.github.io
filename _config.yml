@@ -22,7 +22,7 @@ plugins:
 # Site settings
 url: 'https://alxc.net/'
 baseurl: ''
-title: 'Alex'
+title: 'Alexander Czech'
 # description: 'My first try on a new website'
 permalink: pretty
 # logo: ""
