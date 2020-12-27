@@ -3,6 +3,6 @@ title: Alex
 layout: page
 feature_image: "/img/home.jpg"
 feature_text: |
-  ## Hello world
+  ## Alexander Czech
 ---
 Hey this is my new website!
