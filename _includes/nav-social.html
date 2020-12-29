@@ -4,12 +4,13 @@
       {% assign id = link[0] | downcase %}
         {% if id == "email" %}
         <a href="{{ link[1] }}">
-        {% include icon.html id=id title=id %} email hura
+         email hura
         </a>
         {% else %}
         <a href="{{ link[1] }}">
         {% include icon.html id=id title=id %}
         </a>
+        {% endif %}
     {% endif %}
   {% endfor %}
 </nav>
