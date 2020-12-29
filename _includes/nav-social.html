@@ -3,8 +3,8 @@
     {% if link[1] != blank %}
       {% assign id = link[0] | downcase %}
         {% if id == "email" %}
-        <a href="{{ link[1] }}">
-         email hura
+        <a href="{{ link[1] | encode_email }}">
+        {% include icon.html id=id title=id %} 
         </a>
         {% else %}
         <a href="{{ link[1] }}">
