@@ -53,8 +53,13 @@ navigation_footer:
 social: # jekyll-seo-tag > social overrides
   name: Alexander Czech
   links:
-    - www.linkedin.com/in/alexczech
+    - https://www.linkedin.com/in/alexczech
     - https://github.com/thagorx
+
+social_links:
+  LinkedIn: https://www.linkedin.com/in/alexczech
+  GitHub: https://github.com/thagorx
+  email: test@test.test
 
 # Collections
 collections:
