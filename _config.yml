@@ -59,7 +59,7 @@ social: # jekyll-seo-tag > social overrides
 social_links:
   LinkedIn: https://www.linkedin.com/in/alexczech
   GitHub: https://github.com/thagorx
-  email: test@test.test
+  email: mailto:test@test.test
 
 # Collections
 collections:
