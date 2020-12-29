@@ -3,7 +3,7 @@
   {% for link in site.social_links %}
     {% if link[1] != blank %}
       {% assign id = link[0] | downcase %}
-        {% if id == email %}
+        {% if id == "email" %}
         <a href="{{ link[1] | encode_email }}">
         {% include icon.html id=id title=id %} buhja
         </a>
