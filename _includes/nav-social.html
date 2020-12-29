@@ -5,7 +5,7 @@
       {% assign id = link[0] | downcase %}
         {% if id == email %}
         <a href="{{ link[1] | encode_email }}">
-        {% include icon.html id=id title=id %}
+        {% include icon.html id=id title=id %} buhja
         </a>
         {% else %}
         <a href="{{ link[1] }}">
