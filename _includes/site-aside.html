@@ -6,10 +6,8 @@
     </section>
 
   {% elsif page.layout == "page" or page.layout == "home" or page.layout == "blog" %}
-    <section class="section  section--description">
       <p>{% include figure.html image="/img/portrait_40.jpg" %}</p>
       {% include nav-social.html %}
-    </section>
 
   {% elsif page.layout == "categories" %}
     <section class="section  section--category-index">
