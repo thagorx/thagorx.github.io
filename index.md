@@ -6,4 +6,4 @@ feature_text: |
   ## Alexander Czech
 aside_home: true
 ---
-To my website. I'm Alex an Data Scientist, Geographer, Explorer, Travler and this site is my digital business card.
+To my website. I'm Alex an Data Scientist, Geographer, Explorer, Researcher, Lecturer, Travler and this site is my digital business card.
