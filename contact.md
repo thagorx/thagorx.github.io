@@ -3,4 +3,4 @@ title: Contact
 layout: page
 ---
 
-{% include nav-categories.html %}
+{% include nav-social.html %}
