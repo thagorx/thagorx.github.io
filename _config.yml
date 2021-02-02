@@ -27,7 +27,7 @@ title: 'Alexander Czech'
 # description: 'My first try on a new website'
 permalink: pretty
 timezone: Europe/London
-logo: "/img/logo_50.png"
+logo: "/img/logo.svg"
 
 # Pagination
 paginate: 5
