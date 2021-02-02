@@ -2,7 +2,6 @@
 layout: page
 title: About
 aside: true
-feature_image: "/img/banner_slim.jpg"
 ---
 Hello, I’m Alexander and I’m currently working as a Data Scientist at Data Science Services, a Viennese FinTech Startup with a focus on real estate value modeling. My tasks there focus on datamining, ETL, pipelining, NLP, and supervising research projects.
 
