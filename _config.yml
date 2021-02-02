@@ -26,7 +26,8 @@ baseurl: ''
 title: 'Alexander Czech'
 # description: 'My first try on a new website'
 permalink: pretty
-# logo: ""
+timezone: Europe/London
+logo: "/img/logo.jpg"
 
 # Pagination
 paginate: 5
