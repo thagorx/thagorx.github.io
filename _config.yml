@@ -51,6 +51,16 @@ navigation_footer:
 - title: Back to top
   url: "#top"
 
+favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+  16: '/img/logo_25@16px.png'
+  32: '/img/logo_25@32px.png'
+  96: '/img/logo_25@96px.png'
+  120: '/img/logo_25@120px.png'
+  144: '/img/logo_25@144px.png'
+  180: '/img/logo_25@180px.png'
+  512: '/img/logo_25@512px.png'
+  1024: '/img/logo_25@1024px.png'
+
 # social
 social: # jekyll-seo-tag > social overrides
   name: Alexander Czech
