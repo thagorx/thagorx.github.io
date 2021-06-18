@@ -20,4 +20,9 @@ for the word "vineyard":
 
 Broadly it looks like the system responds to the places where you would in Vienna expect more trees and vineyards to be. But when I try to use it further it also seems to create really high similarity values for cells that have comparatively lesser text in them. See the Vienna Lobau area in the vineyard example. My guess is that the cells at the moment are to large to work practically and thus drown a lot of signal.
 
+
+example of to big cells:
+![big cells](/img/spatial_semantics/large.PNG)
+
+
 So the next step is to create smaller cells and repeat the experiment. I opted for a 50m cell size which will be about 200k cells for Vienna. With the current limitations of the overpass api I estimated this to take about 25 days of continuous computing this will take a while. I plan to be quicke this time around ;) 
